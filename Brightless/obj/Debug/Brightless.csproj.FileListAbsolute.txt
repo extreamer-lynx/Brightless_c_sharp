@@ -1,0 +1,11 @@
+C:\Users\Vlad\source\repos\Brightless\Brightless\bin\Debug\Brightless.exe.config
+C:\Users\Vlad\source\repos\Brightless\Brightless\bin\Debug\Brightless.exe
+C:\Users\Vlad\source\repos\Brightless\Brightless\bin\Debug\Brightless.pdb
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.Form1.resources
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.Properties.Resources.resources
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.exe
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.pdb
+C:\Users\Vlad\source\repos\Brightless\Brightless\obj\Debug\Brightless.csproj.CopyComplete

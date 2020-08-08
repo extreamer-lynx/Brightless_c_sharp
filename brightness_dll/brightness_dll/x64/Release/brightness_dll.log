@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  brightness_dll.cpp
+  dllmain.cpp
+  gammaramp.cpp
+     Creating library C:\Users\Vlad\source\repos\brightness_dll\x64\Release\brightness_dll.lib and object C:\Users\Vlad\source\repos\brightness_dll\x64\Release\brightness_dll.exp
+  Generating code
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  brightness_dll.vcxproj -> C:\Users\Vlad\source\repos\brightness_dll\x64\Release\brightness_dll.dll

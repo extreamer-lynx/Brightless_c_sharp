@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  brightness_dll.cpp
+  dllmain.cpp
+  gammaramp.cpp
+  Generating Code...
+     Creating library C:\Users\Vlad\source\repos\brightness_dll\x64\Debug\brightness_dll.lib and object C:\Users\Vlad\source\repos\brightness_dll\x64\Debug\brightness_dll.exp
+  brightness_dll.vcxproj -> C:\Users\Vlad\source\repos\brightness_dll\x64\Debug\brightness_dll.dll
